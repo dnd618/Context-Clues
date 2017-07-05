@@ -6,12 +6,12 @@ var weaponry = ['kusanagi', 'stapler', 'bazooka', 'nike', 'machete', 'bebe gun',
 
 document.addEventListener('DOMContentLoaded', function(){
 for(var i = 1; i < 101; i++){
-}
     console.log(homie[i]+":");
     var heading = document.createElement('h3')
     heading.className = "header";
-    document.body.appendChild('header')
-    var clues = "Clue" + 1
-    header.body.append('Clue')
+    document.body.append(heading)
+    var clues = "Clue" + i
+    heading.append(clues)
+    }
 });
 
