@@ -1,4 +1,4 @@
-var homie = ['BriBri', 'Playa', 'Vito', 'Kim K', 'Cocheta'];
+var homie = ['Bria', 'Andre', 'Kim', 'Shayla', 'Alex'];
 
 var loc = ['Liv', 'Bellagio', 'South Beach', 'Los Angeles', 'Atlanta', 'Hollywood', 'New Orleans', 'Denver', 'Nashville', 'Dubai'];
 
